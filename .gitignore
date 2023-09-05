@@ -1,0 +1,6 @@
+*.py
+.vscode
+__pycache__
+paths.ipynb
+prueba.ipynb
+qLearning.ipynb
