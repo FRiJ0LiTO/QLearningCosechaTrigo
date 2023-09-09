@@ -1,4 +1,4 @@
-# # Proyecto de Simulación de Cosecha de Trigo con Q-Learning
+# Proyecto de Simulación de Cosecha de Trigo con Q-Learning
 
 Este proyecto tiene como objetivo implementar el algoritmo de Q-Learning para encontrar rutas óptimas en una simulación de cosecha de trigo. El proyecto utiliza Jupyter Notebook para proporcionar un entorno de desarrollo amigable.
 
